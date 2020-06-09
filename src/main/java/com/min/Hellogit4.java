@@ -6,5 +6,5 @@ package com.min;
  * description
  */
 public class Hellogit4 {
-    private String a ="123";
+    private String ab ="123";
 }
